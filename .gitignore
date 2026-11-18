@@ -1,0 +1,10 @@
+build/bin
+node_modules
+frontend/dist
+
+# build output
+build/bin/
+frontend/dist/
+frontend/node_modules/
+node_modules/
+/b52wails
